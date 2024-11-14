@@ -1,4 +1,5 @@
 **P2 Features**
+
 # Game Manager
 - score
 Current score of the game.
